@@ -83,6 +83,9 @@ PlayAudio/x86/o-g/PlayAudio
 PlayWav/arm/o.le-v7-g/PlayWav
 PlayWav/arm/o.le-v7/PlayWav
 PlayWav/x86/o-g/PlayWav
+ProgressToast/arm/o.le-v7-g/ProgressToast
+ProgressToast/arm/o.le-v7/ProgressToast
+ProgressToast/x86/o-g/ProgressToast
 ScreenTemplate/arm/o.le-v7-g/ScreenTemplate
 ScreenTemplate/arm/o.le-v7/ScreenTemplate
 ScreenTemplate/x86/o-g/ScreenTemplate
